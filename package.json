@@ -1,0 +1,18 @@
+{
+  "name": "v1",
+  "version": "1.0.1",
+  "description": "Projeye başlandı",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Furkan Özay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
